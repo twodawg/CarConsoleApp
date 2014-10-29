@@ -1,0 +1,5 @@
+C:\projects\CarConsoleApp\CarConsoleApp\bin\Debug\CarConsoleApp.exe
+C:\projects\CarConsoleApp\CarConsoleApp\bin\Debug\CarConsoleApp.pdb
+C:\projects\CarConsoleApp\CarConsoleApp\obj\Debug\CarConsoleApp.csprojResolveAssemblyReference.cache
+C:\projects\CarConsoleApp\CarConsoleApp\obj\Debug\CarConsoleApp.exe
+C:\projects\CarConsoleApp\CarConsoleApp\obj\Debug\CarConsoleApp.pdb
